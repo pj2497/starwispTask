@@ -1,0 +1,14 @@
+.sidebarRow {
+  border: 1px solid black;
+  margin: 10px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-right: 15px;
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.sidebarRow:hover {
+  background-color: darkgray;
+  color: brown;
+}

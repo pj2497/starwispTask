@@ -1,0 +1,9 @@
+.cardHolder {
+  flex: 0.8;
+  padding: 10px;
+  height: 100%;
+  background-color: #f5f3f3;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
